@@ -1,0 +1,15 @@
+.labelB{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+input{
+    margin-left: 90px;
+    width: 500px;
+    border-style: none;
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+ 

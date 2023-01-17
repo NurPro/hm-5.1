@@ -1,0 +1,12 @@
+ .button  {
+  background: #FF4742;
+    box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  border: none;
+  width: 70px;
+  margin-left: 100px;
+  margin-top: 20px;
+  }
+
+ 

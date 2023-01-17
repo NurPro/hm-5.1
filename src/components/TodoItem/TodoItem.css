@@ -1,0 +1,22 @@
+.DivTodo {
+  background-color: rgb(184, 200, 215);
+  width: 720px;
+   padding-top: 26px;
+   padding-bottom: 26px;
+   border-radius: 4px;
+ 
+ }
+
+.DivItem {
+   padding-bottom: 6px;
+  }
+
+.DivTodoItem_p{
+     color: rgb(10, 10, 10);
+    margin-left: 90px;
+    border-radius: 5px;
+    width: 516px;
+    height: 20px;
+  background-color: rgb(255, 255, 255);
+  padding: 1px;
+}
